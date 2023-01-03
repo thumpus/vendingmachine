@@ -1,0 +1,17 @@
+.VendingMachine {
+    align-items: center;
+    text-align: center;
+    margin: auto;
+    height: 500px;
+    width: 300px;
+    background-color: red;
+}
+
+h1 {
+    color: white;
+}
+
+button {
+    width: 250px;
+    height: 100px;
+}
